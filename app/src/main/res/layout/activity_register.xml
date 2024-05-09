@@ -49,15 +49,15 @@
         android:drawablePadding="24dp"/>
 
     <Button
-        android:id="@+id/btnLogin"
+        android:id="@+id/btnRegister"
         android:layout_below="@id/etRegisterPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login"/>
+        android:text="REGISTER"/>
 
     <TextView
-        android:id="@+id/tvCreateAccount"
-        android:layout_below="@+id/btnLogin"
+        android:id="@+id/tvLoginHere"
+        android:layout_below="@+id/btnRegister"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="center"
